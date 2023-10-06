@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: blueviolet;
+    color: white;
+    padding: 10 px;
+}
+
+header img {
+    margin-left: 1 px;
+    margin-top: 1 px;
+    border-radius: 1 px;
+
+}
+header a {
+    text-decoration: none;
+    background-color: turquoise;
+    color: blueviolet;
+    border-radius: 5 px;
+    padding: 5 px;
+
+}
+main h1{
+    color: orange;
+    border: 5 px solid blueviolet;
+    border-radius: 10 px;
+    text-align: center;
+    margin: 25 px;
+}
+footer{
+    background-color: blueviolet;
+    padding: 20 px;
+}
+
+footer p {
+    background-color: white;
+    color: blueviolet;
+    margin: 10 px;
+    margin-right: 100 px;
+    padding-left: 10 px;
+}
+nav{
+    margin-top: 20 px;
+}
+nav a {
+    color: blueviolet;
+    text-decoration: none;
+    padding: 40 px;
+    
+}
+.product{
+    background-color: blueviolet;
+    border-radius: 10 px;
+    padding: 10 px;
+    color: white;
+}
+h2 {
+    color: blueviolet;
+    font-size: 30 px;
+}
+main{
+    padding: 20 px;
+
+}
+
+.lin{
+    border: 3 px solid blueviolet;
+    border-radius: 10 px;
+    text-decoration: none;
+    color: blueviolet;
+    padding: 5 px;
+    
+}
+p {
+    font-size: 20 px;
+}
+.foto{
+    border:2 px solid blueviolet;
+    border-radius: 10 px;
+    
+}
